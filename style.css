@@ -1,0 +1,35 @@
+body {
+  background-color: #fef6e4;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #5d576b;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #9b5de5;
+  font-style: italic;
+}
+
+button {
+  background-color: #caffbf;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-style: italic;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #bdb2ff;
+}
+
+#resultado {
+  margin-top: 20px;
+  background-color: #ffd6a5;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-style: italic;
+}
